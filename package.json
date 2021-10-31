@@ -1,0 +1,16 @@
+{
+  "name": "ble-to-tcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ble-to-tcp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@s524797336/noble-mac": "^0.1.2",
+    "bindings": "^1.5.0",
+    "noble": "^1.9.1"
+  }
+}
